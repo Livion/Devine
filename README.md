@@ -28,5 +28,9 @@ Special thanks
 • Rocket - DAYZ! http://dayzmod.com | http://dayzgame.com                                                            
 • DayZ Community Developers - https://github.com/DayZMod
 
+======
+Bugs/Issues
+======
+
 <li>Please report any bugs/issues by submitting a Issue <a href="https://github.com/Livion/Devine/issues">here</a>
 
