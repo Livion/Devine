@@ -26,5 +26,7 @@ Special thanks
 
 • BIS for a incredible and versatile game and engine. http://www.bistudio.com/                                         
 • Rocket - DAYZ! http://dayzmod.com | http://dayzgame.com                                                            
-• DayZ Community Developers - https://github.com/DayZMod                                                             
+• DayZ Community Developers - https://github.com/DayZMod
+
+<li>Please report any bugs/issues by submitting a Issue <a href="https://github.com/Livion/Devine/issues">here</a>
 
